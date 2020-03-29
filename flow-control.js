@@ -1,14 +1,11 @@
 function basicTeenager() {
-if(13 >= 19)
-"You are a teenage!";
+if(13 >= 19);
+
 }
 
 function teenager(age) {
-if (conditionTOTEST){
-} else {
+} 
   
-}
-}
 
 function ageChecker(age) {
 
