@@ -5,7 +5,9 @@ if(13 >= 19)
 }
 
 function teenager(age){
-  if (13 >=19)
+  if (13 >=19){
+  Return; ""
+  }
 } 
   
 
