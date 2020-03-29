@@ -1,5 +1,6 @@
 function basicTeenager() {
-
+if(ligthIsGreen)
+go()
 }
 
 function teenager(age) {
