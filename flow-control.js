@@ -1,5 +1,5 @@
 function basicTeenager() {
-if(ligthIsGreen)
+if(13 >= 19)
 'You are a teenage!';
 }
 
