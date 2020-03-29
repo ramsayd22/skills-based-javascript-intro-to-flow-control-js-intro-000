@@ -1,5 +1,5 @@
-function basicTeenager('13-19') {
-"You are a teenager!";
+function basicTeenager() {
+
 }
 
 function teenager(age) {
