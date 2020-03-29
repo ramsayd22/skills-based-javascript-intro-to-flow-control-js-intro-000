@@ -6,8 +6,9 @@ if(13 >= 19)
 
 function teenager(age){
   if (13 >=19){
-  Return; ""
-  }
+  Return; "You are a teenager!";
+  }{Else; "You are not a teenager!";
+}
 } 
   
 
