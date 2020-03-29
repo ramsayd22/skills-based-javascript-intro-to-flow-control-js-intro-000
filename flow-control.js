@@ -1,6 +1,6 @@
 function basicTeenager() {
 if(ligthIsGreen)
-go()
+'You are a teenage!';
 }
 
 function teenager(age) {
