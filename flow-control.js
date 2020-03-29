@@ -1,5 +1,7 @@
 function basicTeenager()
 
+
+
 function teenager(age){
 } 
   
