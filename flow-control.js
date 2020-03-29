@@ -4,7 +4,10 @@ if(13 >= 19)
 }
 
 function teenager(age) {
-
+if (conditionTOTEST){
+} else {
+  
+}
 }
 
 function ageChecker(age) {
